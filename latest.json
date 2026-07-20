@@ -1,11 +1,11 @@
 {
-  "title": "New Music Coming Soon",
+  "title": "Smoke",
   "artist": "Brent Alan",
-  "album": "",
+  "album": "One More Day",
   "type": "Latest Single",
-  "cover": "",
-  "image": "",
-  "audio": "",
-  "audioSrc": "",
+  "cover": "images/covers/brent-alan-smoke-cover.png",
+  "image": "images/covers/brent-alan-smoke-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/glbb4ub8u9hpjxl50es51/brent-alan-smoke-mp3.mp3?rlkey=zndu3q6kuhkrnheerjxxbpv7h&st=k7nct3vz&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/glbb4ub8u9hpjxl50es51/brent-alan-smoke-mp3.mp3?rlkey=zndu3q6kuhkrnheerjxxbpv7h&st=k7nct3vz&raw=1",
   "videos": []
 }

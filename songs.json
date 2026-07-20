@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "brent-alan-smoke",
+    "num": "01",
+    "title": "Smoke",
+    "artist": "Brent Alan",
+    "album": "One More Day",
+    "trackNumber": 1,
+    "albumOrder": 1,
+    "albumCover": "images/covers/brent-alan-one-more-day-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/brent-alan-smoke-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/glbb4ub8u9hpjxl50es51/brent-alan-smoke-mp3.mp3?rlkey=zndu3q6kuhkrnheerjxxbpv7h&st=k7nct3vz&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/glbb4ub8u9hpjxl50es51/brent-alan-smoke-mp3.mp3?rlkey=zndu3q6kuhkrnheerjxxbpv7h&st=k7nct3vz&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
+  }
+]

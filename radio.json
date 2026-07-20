@@ -2,12 +2,21 @@
   "artist": "Brent Alan",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "",
+    "title": "Smoke",
     "artist": "Brent Alan",
-    "album": "",
-    "cover": "",
-    "audioSrc": "",
+    "album": "One More Day",
+    "cover": "images/covers/brent-alan-smoke-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/glbb4ub8u9hpjxl50es51/brent-alan-smoke-mp3.mp3?rlkey=zndu3q6kuhkrnheerjxxbpv7h&st=k7nct3vz&raw=1",
     "videos": []
   },
-  "tracks": []
+  "tracks": [
+    {
+      "title": "Smoke",
+      "artist": "Brent Alan",
+      "album": "One More Day",
+      "cover": "images/covers/brent-alan-smoke-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/glbb4ub8u9hpjxl50es51/brent-alan-smoke-mp3.mp3?rlkey=zndu3q6kuhkrnheerjxxbpv7h&st=k7nct3vz&raw=1",
+      "videos": []
+    }
+  ]
 }
